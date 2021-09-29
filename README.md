@@ -16,7 +16,28 @@
   - Base64 Encoding
   - Invoke-Obfuscation.ps1
 
+# Windows McAfee 보안 설정 끄기
+
+1. window
+2. 바이러스 및 위협 방지
+3. McAfee 열기
+4. 설정 -> 실시간 검사 -> 꺼짐
+
 # Eicar 파일
 
 - **Eicar**
   - Anti-Virus 제품이 잘 동작하는지 확인하기 위해 사용하는 mock virus
+  - [Eicar 공식 홈페이지](https://www.eicar.org/?page_id=3950)
+  - [Eicar 제공 테스트 악성 코드 String](https://secure.eicar.org/eicar.com.txt)
+
+# Invoke-Obfuscation 사용법
+
+Invoke-Obfuscation 설치 및 실행
+
+```powershell
+git clone https://github.com/danielbohannon/Invoke-Obfuscation.git
+
+Import-Module Invoke-Obfuscation.psd1
+
+Invoke-Obfuscation
+```
