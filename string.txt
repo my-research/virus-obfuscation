@@ -1,1 +1,0 @@
-(('Write-Ho'+'st {1}X5'+'O'+'!'+'P%@A'+'P'+'[4'+'{2}P'+'ZX54(P^)7CC)7}'+'{0}EICAR'+'-S'+'T'+'ANDARD-A'+'NTIVIRUS-TEST-FILE!{0'+'}H+H'+'*{1'+'} -F'+'oregroundColor'+' Gree'+'n')-F [cHAr]36,[cHAr]34,[cHAr]92) | . ( $enV:COmsPEc[4,24,25]-JoIN'')
